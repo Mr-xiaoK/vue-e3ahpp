@@ -45,6 +45,9 @@ export default {
     background-color: #464464;
     margin-right: 10px;
   }
+   &::-webkit-scrollbar {
+    display: none;
+  }
 }
 .y_scroll{
   width: 100px;
